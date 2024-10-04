@@ -150,43 +150,7 @@
         </div>
     </section>
 
-    <section class="section bg-light">
-        <div class="container">
-            <h2 class="section-title">Contato</h2>
-            <p class="text-center">Entre em contato conosco para saber mais sobre o curso de Engenharia de Software!</p>
-
-            <div class="text-center">
-                <!-- Email button with tooltip -->
-                <button id="emailButton" class="btn btn-primary m-2"
-                    onclick="copyToClipboard('es.paranavai@ifpr.edu.br')">
-                    <i class="fas fa-envelope"></i> Email
-                </button>
-                <span id="emailSuccess" class="text-success d-none">Email copiado com sucesso!</span>
-
-                <!-- Phone button with tooltip -->
-                <button id="phoneButton" class="btn btn-primary m-2" onclick="copyToClipboard('(44) 3482-0111')">
-                    <i class="fas fa-phone"></i> Telefone
-                </button>
-                <span id="phoneSuccess" class="text-success d-none">Telefone copiado com sucesso!</span>
-
-                <!-- Instagram links -->
-                <a href="https://www.instagram.com/informacaoecomunicacaoifpr" target="_blank"
-                    class="btn btn-primary m-2">
-                    <i class="fab fa-instagram"></i> Instagram do Curso
-                </a>
-                <a href="https://www.instagram.com/ifpr_pvai" target="_blank" class="btn btn-primary m-2">
-                    <i class="fab fa-instagram"></i> Instagram do Campus
-                </a>
-
-            </div>
-            <div class="text-center">
-                <span id="success-message" class="text-success d-none">Copiado com sucesso!</span>
-
-            </div>
-        </div>
-    </section>
-
-    <footer class="footer bg-dark text-white py-4">
+     <footer class="footer bg-dark text-white py-4">
         <div class="container text-left">
             <p class="mb-2"><i class="fas fa-envelope"></i> Email: es.paranavai@ifpr.edu.br</p>
             <p class="mb-2"><i class="fas fa-phone"></i> Telefone: (44) 3482-0111</p>
@@ -209,22 +173,7 @@
         crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 
-    <script>
-        function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(function () {
-
-                const successMessage = document.getElementById("success-message");
-                successMessage.classList.remove('d-none');
-                setTimeout(() => {
-                    successMessage.classList.add('d-none');
-                }, 2000);
-            }, function (err) {
-                console.error("Falha ao copiar: ", err);
-            });
-        }
-    </script>
-
-
+   
 </body>
 
 </html>

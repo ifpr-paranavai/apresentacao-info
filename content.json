@@ -1,0 +1,152 @@
+{
+    "header": {
+        "title": "Bacharelado em Engenharia de Software",
+        "subtitle": "IFPR Campus Paranavaí"
+    },
+    "badges": [
+        {
+            "text": "Curso Gratuito",
+            "class": "badge bg-success mr-1"
+        },
+        {
+            "text": "Reconhecido pelo MEC",
+            "class": "badge bg-info mr-1"
+        },
+        {
+            "text": "Conceito 4/5",
+            "class": "badge bg-warning text-dark mr-1"
+        },
+        {
+            "text": "4 Anos de Duração",
+            "class": "badge bg-primary mr-1"
+        },
+        {
+            "text": "Laboratórios Modernos",
+            "class": "badge bg-secondary mr-1"
+        },
+        {
+            "text": "Professores Qualificados",
+            "class": "badge bg-dark mr-1"
+        },
+        {
+            "text": "Projetos Práticos",
+            "class": "badge bg-light text-dark mr-1"
+        },
+        {
+            "text": "Apoio ao Estudante",
+            "class": "badge bg-danger mr-1"
+        }
+    ],
+    "about": {
+        "title": "Sobre o Curso",
+        "description": "Com duração de 4 anos, o curso de Bacharelado em Engenharia de Software visa formar profissionais capacitados para atuar no desenvolvimento de software, gestão de projetos e inovação tecnológica, proporcionando uma formação completa e alinhada com as necessidades do mercado atual."
+    },
+    "projects": {
+        "title": "Projetos Desenvolvidos",
+        "description": "Veja alguns projetos desenvolvidos no curso",
+        "items": [
+            {
+                "title": "Projeto 1",
+                "description": "Descrição breve do projeto desenvolvido por alunos.",
+                "image": "imagens/projeto1.jpg"
+            },
+            {
+                "title": "Projeto 2",
+                "description": "Descrição breve do projeto desenvolvido por alunos.",
+                "image": "imagens/projeto2.jpg"
+            }
+        ]
+    },
+    "labs": {
+        "title": "Laboratórios e Ambientes",
+        "items": [
+            {
+                "title": "Laboratório de Informática 1",
+                "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
+                "image": "imagens/laboratorio1.jpeg"
+            },
+            {
+                "title": "Laboratório de Informática 2",
+                "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
+                "image": "imagens/laboratorio1.jpeg"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Depoimentos de Alunos",
+        "items": [
+            {
+                "quote": "O curso de Engenharia de Software foi fundamental para o meu crescimento profissional. Os professores são excelentes e os projetos me prepararam para o mercado.",
+                "student": "Aluno 1",
+                "year": "3º ano"
+            },
+            {
+                "quote": "As oportunidades que o curso oferece são únicas, desde projetos práticos até laboratórios com tecnologia de ponta.",
+                "student": "Aluno 2",
+                "year": "3º ano"
+            }
+        ]
+    },
+    "footer": {
+        "email": "es.paranavai@ifpr.edu.br",
+        "phone": "(44) 3482-0111",
+        "instagram_course": "https://www.instagram.com/informacaoecomunicacaoifpr",
+        "instagram_campus": "https://www.instagram.com/ifpr_pvai",
+        "copyright": "© 2024 Curso - IFPR Campus Paranavaí. Todos os direitos reservados."
+    }, "curriculum": {
+        "years": [
+            {
+                "year": "1º Ano",
+                "subjects": [
+                    { "name": "Ética, Cultura e Sociedade (ECS)", "hours": "80h" },
+                    { "name": "Engenharia Econômica (EE)", "hours": "80h" },
+                    { "name": "Inglês Instrumental (ING)", "hours": "80h" },
+                    { "name": "Leitura e Produção de Gêneros Acadêmicos (LPGA)", "hours": "80h" },
+                    { "name": "Matemática Discreta e Lógica (MDL)", "hours": "80h" },
+                    { "name": "Algoritmos e Estruturas de Dados I (AGI)", "hours": "160h" },
+                    { "name": "Banco de Dados I (BDI)", "hours": "80h" },
+                    { "name": "Engenharia de Software (ES)", "hours": "80h" },
+                    { "name": "Metodologia de Pesquisa em Engenharia de Software (MPES)", "hours": "80h" }
+                ]
+            },
+            {
+                "year": "2º Ano",
+                "subjects": [
+                    { "name": "Cálculo (CAL)", "hours": "80h" },
+                    { "name": "Empreendedorismo em Tecnologia da Informação (EMP)", "hours": "80h" },
+                    { "name": "Algoritmos e Estruturas de Dados II (AGII)", "hours": "80h" },
+                    { "name": "Arquitetura de Computadores (ARQ)", "hours": "80h" },
+                    { "name": "Banco de dados II (BDII)", "hours": "80h" },
+                    { "name": "Programação Orientada a Objetos (POO)", "hours": "160h" },
+                    { "name": "Práticas de Extensão (PEX)", "hours": "160h" },
+                    { "name": "Análise e Projeto de Sistemas (APS)", "hours": "80h" }
+                ]
+            },
+            {
+                "year": "3º Ano",
+                "subjects": [
+                    { "name": "Probabilidade e Estatística (EST)", "hours": "80h" },
+                    { "name": "Desenvolvimento para Dispositivos Móveis (DDM)", "hours": "160h" },
+                    { "name": "Programação Web (PW)", "hours": "160h" },
+                    { "name": "Sistemas Operacionais (SO)", "hours": "80h" },
+                    { "name": "Arquitetura e Padrões de Software (ARPS)", "hours": "80h" },
+                    { "name": "Construção de Software (CS)", "hours": "80h" },
+                    { "name": "Projeto Integrador (PI)", "hours": "80h" },
+                    { "name": "Interação Humano-Computador (IHC)", "hours": "80h" }
+                ]
+            },
+            {
+                "year": "4º Ano",
+                "subjects": [
+                    { "name": "Redes de Computadores e Segurança (RED)", "hours": "80h" },
+                    { "name": "Tópicos em Computação (TEC)", "hours": "160h" },
+                    { "name": "Governança e Gestão de Serviços de Software (GGSS)", "hours": "80h" },
+                    { "name": "Novas Aplicações em Engenharia de Software (NAES)", "hours": "80h" },
+                    { "name": "Projeto de Software Avançado (PSA)", "hours": "160h" },
+                    { "name": "Teste de Software (TES)", "hours": "80h" },
+                    { "name": "Trabalho de Conclusão de Curso (TCC)", "hours": "80h" }
+                ]
+            }
+        ]
+    }
+}

@@ -1,5 +1,4 @@
 <?php
-// Carregar o arquivo JSON
 $content = file_get_contents('content.json');
 $data = json_decode($content, true);
 ?>
@@ -16,7 +15,7 @@ $data = json_decode($content, true);
 </head>
 
 <body>
-<?php include 'header.php';?>
+    <?php include 'header.php'; ?>
 
     <section class="section">
         <div class="container">

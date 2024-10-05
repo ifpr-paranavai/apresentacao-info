@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "Bacharelado em Engenharia de Software",
+        "title": "Integrado em Informática",
         "subtitle": "IFPR Campus Paranavaí"
     },
     "badges": [
@@ -9,11 +9,11 @@
             "class": "badge bg-success mr-1"
         },
         {
-            "text": "Reconhecido pelo MEC",
+            "text": "Prepara para o Mercado de Trabalho",
             "class": "badge bg-info mr-1"
         },
         {
-            "text": "Conceito 4/5",
+            "text": "+ Aprovações em Vestibulares",
             "class": "badge bg-warning text-dark mr-1"
         },
         {
@@ -39,7 +39,7 @@
     ],
     "about": {
         "title": "Sobre o Curso",
-        "description": "Com duração de 4 anos, o curso de Bacharelado em Engenharia de Software visa formar profissionais capacitados para atuar no desenvolvimento de software, gestão de projetos e inovação tecnológica, proporcionando uma formação completa e alinhada com as necessidades do mercado atual."
+        "description": "Com duração de 4 anos, o curso Técnico em Informática Integrado ao Ensino Médio oferece uma formação completa, capacitando os alunos tanto para o desenvolvimento de software e gestão de projetos, quanto para os desafios do mercado de trabalho. Além disso, o curso prepara os estudantes para a continuidade dos estudos, como vestibulares e outras oportunidades acadêmicas."
     },
     "projects": {
         "title": "Projetos Desenvolvidos",

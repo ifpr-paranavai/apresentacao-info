@@ -91,9 +91,19 @@
                 "image": "imagens/laboratorioMaker.jpeg"
             },
             {
+                "title": "Laboratório de Multidisciplinas de Ensino – LABIEN",
+                "description": "Destinado ao desenvolvimento de atividades de Ensino, Pesquisa, Inovação e Extensão voltadas à comunidade interna e/ou externa ao Instituto Federal do Paraná – Campus Paranavaí",
+                "image": "imagens/laboratorioMaker.jpeg"
+            },
+            {
                 "title": "Ambiente Virtual de Aprendizagem",
                 "description": "Utilizamos o moodle como Ambiente Virtual de Aprendizagem. Uma plataforma onde alunos e professores podem acessar materiais didáticos, realizar atividades, participar de fóruns e acompanhar o progresso acadêmico. Através do AVA, o IFPR proporciona suporte para o ensino de maneira virtual.",
                 "image": "imagens/ava.png"
+            },
+            {
+                "title": "Ginásio de Esportes",
+                "description": "O ginásio de esportes é um espaço dedicado à prática de diversas atividades físicas e esportivas, coberto e com quadra poliesportiva.",
+                "image": "imagens/ginasio.jpeg"
             },
             {
                 "title": "Biblioteca",

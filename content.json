@@ -86,6 +86,11 @@
                 "image": "imagens/laboratorio5.jpg"
             },
             {
+                "title": "Laboratório Maker - IFMaker Caiuá",
+                "description": "Os Laboratórios IF MAKER são ambientes colaborativos, facilitadores de projeção, produção e consolidação de produtos e/ou serviços.",
+                "image": "imagens/laboratorioMaker.jpeg"
+            },
+            {
                 "title": "Ambiente Virtual de Aprendizagem",
                 "description": "Utilizamos o moodle como Ambiente Virtual de Aprendizagem. Uma plataforma onde alunos e professores podem acessar materiais didáticos, realizar atividades, participar de fóruns e acompanhar o progresso acadêmico. Através do AVA, o IFPR proporciona suporte para o ensino de maneira virtual.",
                 "image": "imagens/ava.png"

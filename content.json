@@ -88,7 +88,7 @@
             {
                 "title": "Laboratório Maker - IFMaker Caiuá",
                 "description": "Os Laboratórios IF MAKER são ambientes colaborativos, facilitadores de projeção, produção e consolidação de produtos e/ou serviços.",
-                "image": "imagens/laboratorioMaker.jpeg"
+                "image": "imagens/laboratorioMaker.JPEG"
             },
             {
                 "title": "Laboratório de Multidisciplinas de Ensino – LABIEN",
@@ -103,12 +103,12 @@
             {
                 "title": "Ginásio de Esportes",
                 "description": "O ginásio de esportes é um espaço dedicado à prática de diversas atividades físicas e esportivas, coberto e com quadra poliesportiva.",
-                "image": "imagens/ginasio.jpeg"
+                "image": "imagens/ginasio.JPEG"
             },
             {
                 "title": "Biblioteca",
                 "description": "Biblioteca com acervo específico e atualizado, conforme as obras listadas nas ementas dos componentes curriculares",
-                "image": "imagens/biblioteca.jpeg"
+                "image": "imagens/biblioteca.JPEG"
             }
         ]
     },

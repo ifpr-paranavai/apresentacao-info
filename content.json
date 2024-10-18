@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "Integrado em Informática",
+        "title": "Curso Técnico em Informática Integrado ao Ensino Médio",
         "subtitle": "IFPR Campus Paranavaí"
     },
     "badges": [
@@ -63,12 +63,32 @@
             {
                 "title": "Laboratório de Informática 1",
                 "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
-                "image": "imagens/laboratorio1.jpeg"
+                "image": "imagens/laboratorio1.jpg"
             },
             {
                 "title": "Laboratório de Informática 2",
                 "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
-                "image": "imagens/laboratorio1.jpeg"
+                "image": "imagens/laboratorio2.jpg"
+            },
+            {
+                "title": "Laboratório de Informática 3",
+                "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
+                "image": "imagens/laboratorio3.jpg"
+            },
+            {
+                "title": "Laboratório de Informática 4",
+                "description": "Ambiente equipado com computadores de última geração para os alunos desenvolverem seus projetos.",
+                "image": "imagens/laboratorio4.jpg"
+            },
+            {
+                "title": "Laboratório de Hardware e Robótica",
+                "description": "Ambiente equipado com equipamentos diversificados para os alunos desenvolverem seus projetos.",
+                "image": "imagens/laboratorio5.jpg"
+            },
+            {
+                "title": "Ambiente Virtual de Aprendizagem",
+                "description": "Utilizamos o moodle como Ambiente Virtual de Aprendizagem. Uma plataforma onde alunos e professores podem acessar materiais didáticos, realizar atividades, participar de fóruns e acompanhar o progresso acadêmico. Através do AVA, o IFPR proporciona suporte para o ensino de maneira virtual.",
+                "image": "imagens/ava.png"
             }
         ]
     },
@@ -88,11 +108,11 @@
         ]
     },
     "footer": {
-        "email": "es.paranavai@ifpr.edu.br",
+        "email": "ti.info.paranavai@ifpr.edu.br",
         "phone": "(44) 3482-0111",
         "instagram_course": "https://www.instagram.com/informacaoecomunicacaoifpr",
         "instagram_campus": "https://www.instagram.com/ifpr_pvai",
-        "copyright": "© 2024 Curso - IFPR Campus Paranavaí. Todos os direitos reservados."
+        "copyright": "© 2024 Curso - IFPR Campus Paranavaí. Todos os direitos reservados. By Marcelo F. Terenciani"
     },
     "curriculum": {
         "years": [

@@ -93,58 +93,247 @@
         "instagram_course": "https://www.instagram.com/informacaoecomunicacaoifpr",
         "instagram_campus": "https://www.instagram.com/ifpr_pvai",
         "copyright": "© 2024 Curso - IFPR Campus Paranavaí. Todos os direitos reservados."
-    }, "curriculum": {
+    },
+    "curriculum": {
         "years": [
             {
                 "year": "1º Ano",
                 "subjects": [
-                    { "name": "Ética, Cultura e Sociedade (ECS)", "hours": "80h" },
-                    { "name": "Engenharia Econômica (EE)", "hours": "80h" },
-                    { "name": "Inglês Instrumental (ING)", "hours": "80h" },
-                    { "name": "Leitura e Produção de Gêneros Acadêmicos (LPGA)", "hours": "80h" },
-                    { "name": "Matemática Discreta e Lógica (MDL)", "hours": "80h" },
-                    { "name": "Algoritmos e Estruturas de Dados I (AGI)", "hours": "160h" },
-                    { "name": "Banco de Dados I (BDI)", "hours": "80h" },
-                    { "name": "Engenharia de Software (ES)", "hours": "80h" },
-                    { "name": "Metodologia de Pesquisa em Engenharia de Software (MPES)", "hours": "80h" }
+                    {
+                        "name": "Fundamentos e Arquitetura de Computadores",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Introdução a Informática",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Algoritmos e Linguagem de Programação I",
+                        "hours": "160h"
+                    },
+                    {
+                        "name": "Língua Portuguesa e Literatura Brasileira I",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Matemática I",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Filosofia I",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Sociologia I",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Biologia I",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Química I",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Geografia I",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "História I",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Artes I",
+                        "hours": "80h"
+                    }
                 ]
             },
             {
                 "year": "2º Ano",
                 "subjects": [
-                    { "name": "Cálculo (CAL)", "hours": "80h" },
-                    { "name": "Empreendedorismo em Tecnologia da Informação (EMP)", "hours": "80h" },
-                    { "name": "Algoritmos e Estruturas de Dados II (AGII)", "hours": "80h" },
-                    { "name": "Arquitetura de Computadores (ARQ)", "hours": "80h" },
-                    { "name": "Banco de dados II (BDII)", "hours": "80h" },
-                    { "name": "Programação Orientada a Objetos (POO)", "hours": "160h" },
-                    { "name": "Práticas de Extensão (PEX)", "hours": "160h" },
-                    { "name": "Análise e Projeto de Sistemas (APS)", "hours": "80h" }
+                    {
+                        "name": "Algoritmos e Linguagem de Programação II",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Banco de Dados",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Engenharia de Software",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Língua Portuguesa e Literatura Brasileira II",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Matemática II",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Filosofia II",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Sociologia II",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Biologia II",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Química II",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Física I",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Geografia II",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "História II",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Artes II",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Língua Estrangeira Moderna – Inglês – I",
+                        "hours": "80h"
+                    }
                 ]
             },
             {
                 "year": "3º Ano",
                 "subjects": [
-                    { "name": "Probabilidade e Estatística (EST)", "hours": "80h" },
-                    { "name": "Desenvolvimento para Dispositivos Móveis (DDM)", "hours": "160h" },
-                    { "name": "Programação Web (PW)", "hours": "160h" },
-                    { "name": "Sistemas Operacionais (SO)", "hours": "80h" },
-                    { "name": "Arquitetura e Padrões de Software (ARPS)", "hours": "80h" },
-                    { "name": "Construção de Software (CS)", "hours": "80h" },
-                    { "name": "Projeto Integrador (PI)", "hours": "80h" },
-                    { "name": "Interação Humano-Computador (IHC)", "hours": "80h" }
+                    {
+                        "name": "Análise e Projeto de Sistemas",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Programação Orientada a Objetos",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Sistemas Operacionais",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Língua Portuguesa e Literatura Brasileira III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Matemática III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Filosofia III",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Sociologia III",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Biologia III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Química III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Física II",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Geografia III",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "História III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Educação Física I",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Língua Estrangeira Moderna – Inglês – II",
+                        "hours": "40h"
+                    }
                 ]
             },
             {
                 "year": "4º Ano",
                 "subjects": [
-                    { "name": "Redes de Computadores e Segurança (RED)", "hours": "80h" },
-                    { "name": "Tópicos em Computação (TEC)", "hours": "160h" },
-                    { "name": "Governança e Gestão de Serviços de Software (GGSS)", "hours": "80h" },
-                    { "name": "Novas Aplicações em Engenharia de Software (NAES)", "hours": "80h" },
-                    { "name": "Projeto de Software Avançado (PSA)", "hours": "160h" },
-                    { "name": "Teste de Software (TES)", "hours": "80h" },
-                    { "name": "Trabalho de Conclusão de Curso (TCC)", "hours": "80h" }
+                    {
+                        "name": "Empreendedorismo",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Redes de Computadores",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Programação para Web",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Projeto de Interfaces para Web",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Tópicos Especiais em Tecnologia",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Projeto Final de Curso",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Língua Portuguesa e Literatura Brasileira IV",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Matemática IV",
+                        "hours": "120h"
+                    },
+                    {
+                        "name": "Filosofia IV",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Sociologia IV",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Física III",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Geografia IV",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "História IV",
+                        "hours": "40h"
+                    },
+                    {
+                        "name": "Educação Física II",
+                        "hours": "80h"
+                    },
+                    {
+                        "name": "Língua Estrangeira Moderna – Inglês – III",
+                        "hours": "40h"
+                    }
                 ]
             }
         ]

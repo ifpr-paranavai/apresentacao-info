@@ -116,14 +116,24 @@
         "title": "Depoimentos de Alunos",
         "items": [
             {
-                "quote": "O curso de Engenharia de Software foi fundamental para o meu crescimento profissional. Os professores são excelentes e os projetos me prepararam para o mercado.",
-                "student": "Aluno 1",
+                "quote": "O curso de informática abriu muitas oportunidades para mim, como pessoa e como profissional, desenvolvi muitas habilidades dentro do curso e a partir de um projeto de extensão do IFPR tive a experiência de mexer com softwares de edição, máquinas fotográficas e computadores.",
+                "student": "Eduardo Hermsdorff Dias",
                 "year": "3º ano"
             },
             {
-                "quote": "As oportunidades que o curso oferece são únicas, desde projetos práticos até laboratórios com tecnologia de ponta.",
-                "student": "Aluno 2",
-                "year": "3º ano"
+                "quote": "O curso de Informática é muito bom, os professores do curso são ótimos, explicando tudo certinho. Aprende muitas coisas boas que você pode usar no futuro, quando estiver trabalhando na área.",
+                "student": "Guilherme de Jesus Rezende Gonçalves",
+                "year": "4º ano"
+            },
+            {
+                "quote": "O curso de informática nos possibilita a entrar nesse mundo de tecnologia e nos permite ter uma experiência de como acontece o desenvolvimento tecnológico atual em nosso mundo que está cada vez mais imerso em equipamentos tecnológicos. O curso faz despertar sonhos, ambições e nos estimula a ir cada vez mais a descoberta do novo, com projetos que possibilitam o aluno a ter essa experiência de comandar sua própria pesquisa em busca do que o mundo não viu ainda.",
+                "student": "Artur Elton Mulatti Silva",
+                "year": "4º ano"
+            },
+            {
+                "quote": "Gosto muito do curso de informática do Campus! Professores excepcionais, chances únicas, aprendizado em outro nível.",
+                "student": "Ettore Jacovozzi",
+                "year": "4º ano"
             }
         ]
     },

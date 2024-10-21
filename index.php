@@ -55,7 +55,7 @@ $data = json_decode($content, true);
                         <div class="card-body">
                             <h5 class="card-title" style="color: #22223B;"><?php echo $project['title']; ?></h5>
                             <p class="card-text"><?php echo $project['description']; ?></p>
-                            <a href="#" class="btn btn-primary">Saiba Mais</a>
+                            <a href="<?php echo $project['link']; ?>" class="btn btn-primary">Saiba Mais</a>
                         </div>
                     </div>
                 </div>

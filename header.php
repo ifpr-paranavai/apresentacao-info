@@ -3,8 +3,7 @@
     <p><?php echo $data['header']['subtitle']; ?></p>
 
     <div class="mt-3">
-        <div class="row">
-
+        <div class="row justify-content-center">
             <?php foreach ($data['badges'] as $badge): ?>
             <div class="col-md-1">
                 <i class="<?php echo $badge['icon']; ?> fa-2x"></i> <br />

@@ -5,7 +5,7 @@
     <div class="mt-3">
         <div class="row justify-content-center">
             <?php foreach ($data['badges'] as $badge): ?>
-            <div class="col-md-1">
+            <div class="col-6 col-sm-4 col-md-2 col-lg-1">
                 <i class="<?php echo $badge['icon']; ?> fa-2x"></i> <br />
                 <span class="<?php echo $badge['class']; ?>"><?php echo $badge['text']; ?></span>
             </div>

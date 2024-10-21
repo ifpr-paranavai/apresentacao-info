@@ -7,7 +7,7 @@
         {
             "icon": "fa-solid fa-circle-dollar-to-slot",
             "text": "Curso Gratuito",
-            "class": "bg-success mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-handshake-simple",

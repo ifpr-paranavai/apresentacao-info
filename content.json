@@ -56,12 +56,32 @@
             {
                 "title": "Automação e IoT",
                 "description": "Curso sobre automação e IoT como parte das atividades no  ̃âmbito de um projeto de extensão nas instalações do campus Paranavaí. Este projeto foi desenvolvido dentro do programa PIBEX-JR financiado pela DIEXT/PROEPPI/IFPR, possuindo um bolsista de ensino médio. Foram convidados para o curso alunos e professores da rede municipal, estadual, federal e particular de ensino da cidade de Paranavaí.",
-                "image": "imagens/projetoIoT.png"
+                "image": "imagens/projetoIoT.png",
+                "link": "https://drive.google.com/file/d/13OBeW8dhpI9LOoqxFNVvO0fr2YPloHTd/view"
             },
             {
                 "title": "Avaliação de dados para identificação de crianças atípicas na pré-escola",
                 "description": "Desenvolvimento de uma aplicação utilizando técnicas da ciência de dados e aprendizagem de máquinas na análise dos dados de pessoas e na identificação de crianças atípicas em idade pré-escolar.",
-                "image": "imagens/projetoML.png"
+                "image": "imagens/projetoML.png",
+                "link": "https://drive.google.com/file/d/1gYEdxwtQV07oYto2p0-VgGzg9uZjaXZ8/view"
+            },
+            {
+                "title": "Estação agrometeorológica usando ESP32",
+                "description": "Este trabalho apresenta a criação de uma estação agrometeorológica de baixo custo com o microcontrolador ESP32, que possui suporte a tecnologia LoRa, oferecendo ampla conectividade, incluindo Internet das Coisas (IoT). A estação incluí sensores para medir temperatura e umidade do ar, temperatura e umidade do solo, luminosidade e sensor de chuva, todos conectados ao ESP32 por meio de uma placa de prototipagem.",
+                "image": "imagens/projetoESP.png",
+                "link": "https://drive.google.com/file/d/1xu4D7itHGM243M2QB6rFOllWV_HC3ZuZ/view"
+            },
+            {
+                "title": "MANNASPY: um robô educacional de experiência interativa para educação em tecnologia, privacidade e segurança online",
+                "description": "O MannaSpy adota uma abordagem interativa, envolvendo as crianças em diálogos educativos que estimulam o pensamento crítico. Além disso, permite a personalização estética do robô, promovendo uma conexão emocional mais forte. Ao utilizar situações reais elacionadas aos perigos da rede, o MannaSpy torna o aprendizado prático e relevante, abordando conceitos fundamentais de tecnologia, privacidade e segurança online",
+                "image": "imagens/projetoSPY.png",
+                "link": "https://drive.google.com/file/d/1y2418dChQiBQmdquL81kQvfUlAPh0-ZJ/view"
+            },
+            {
+                "title": "A Tecnologia da Informação e o Ensino da Matemática: construindo recursos para os processos de ensino e de aprendizagem",
+                "description": "Com o intuito de favorecer meios para que o ensino e a aprendizagem acontecesse de forma interativa e atrativa, buscou-se, por meio do dialogo entre a Tecnologia da Informação e o Ensino de Matemática, produzir um software para servir como um recurso didatico pedagógico digital que abarcasse o assunto a respeito dos Poliedros de Platão e suas planificações.",
+                "image": "imagens/projetoPlatao.png",
+                "link": "https://tecnoif.com.br/sistemas/poliedros-platao/"
             }
         ]
     },

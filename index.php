@@ -50,7 +50,7 @@ $data = json_decode($content, true);
                 <?php foreach ($data['projects']['items'] as $project): ?>
                 <div class="col-md-4 d-flex mb-4">
                     <div class="card project-card">
-                        <img src="<?php echo $project['image']; ?>" class="card-img-top"
+                        <img src="<?php echo $project['image']; ?>" class="img-fluid card-img-top"
                             alt="<?php echo $project['title']; ?>">
                         <div class="card-body">
                             <h5 class="card-title" style="color: #22223B;"><?php echo $project['title']; ?></h5>

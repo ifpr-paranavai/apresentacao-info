@@ -12,6 +12,7 @@ $data = json_decode($content, true);
     <title><?php echo $data['header']['title']; ?> - IFPR Campus Paranavaí</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
     <link href="fontawesome-free-6.6.0-web/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
 
     <meta property="og:title" content="Técnico em Informática Integrado ao Ensino Médio - IFPR Campus Paranavaí">

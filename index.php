@@ -36,7 +36,7 @@ $data = json_decode($content, true);
 
             <div class="text-right mt-4">
                 <a href="matriz.php" class="btn btn-secondary">Matriz Curricular</a>
-                <a href="https://portaldocandidato.ifpr.edu.br/" target="_blank" class="btn btn-danger">Inscrições
+                <a href="https://portaldocandidato.ifpr.edu.br/" target="_blank" class="btn btn-success">Inscrições
                     Abertas</a>
             </div>
         </div>

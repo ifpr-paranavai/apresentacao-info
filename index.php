@@ -48,7 +48,7 @@ $data = json_decode($content, true);
             <p class="mb-4"><?php echo $data['projects']['description']; ?></p>
             <div class="row">
                 <?php foreach ($data['projects']['items'] as $project): ?>
-                <div class="col-md-4 mb-4">
+                <div class="col-md-4 d-flex mb-4">
                     <div class="card project-card">
                         <img src="<?php echo $project['image']; ?>" class="card-img-top"
                             alt="<?php echo $project['title']; ?>">
@@ -69,7 +69,7 @@ $data = json_decode($content, true);
             <h2 class="section-title"><?php echo $data['labs']['title']; ?></h2>
             <div class="row">
                 <?php foreach ($data['labs']['items'] as $lab): ?>
-                <div class="col-md-4 mb-4">
+                <div class="col-md-4 d-flex mb-4">
                     <div class="card lab-card">
                         <img src="<?php echo $lab['image']; ?>" class="card-img-top" alt="<?php echo $lab['title']; ?>">
                         <div class="card-body">

@@ -42,7 +42,7 @@ $data = json_decode($content, true);
         </div>
     </section>
 
-    <section class="section bg-light">
+    <section class="section bg-light shadow">
         <div class="container">
             <h2 class="section-title"><?php echo $data['projects']['title']; ?></h2>
             <p class="mb-4"><?php echo $data['projects']['description']; ?></p>
@@ -84,7 +84,7 @@ $data = json_decode($content, true);
         </div>
     </section>
 
-    <section class="section bg-light">
+    <section class="section bg-light shadow">
         <div class="container">
             <h2 class="section-title"><?php echo $data['testimonials']['title']; ?></h2>
             <div class="row">

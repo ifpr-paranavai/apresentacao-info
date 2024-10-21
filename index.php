@@ -71,7 +71,8 @@ $data = json_decode($content, true);
                 <?php foreach ($data['labs']['items'] as $lab): ?>
                 <div class="col-md-4 d-flex mb-4">
                     <div class="card lab-card">
-                        <img src="<?php echo $lab['image']; ?>" class="card-img-top" alt="<?php echo $lab['title']; ?>">
+                        <img src="<?php echo $lab['image']; ?>" class="img-fluid card-img-top"
+                            alt="<?php echo $lab['title']; ?>">
                         <div class="card-body">
                             <h5 class="card-title" style="color: #22223B;"><?php echo $lab['title']; ?></h5>
                             <p class="card-text"><?php echo $lab['description']; ?></p>

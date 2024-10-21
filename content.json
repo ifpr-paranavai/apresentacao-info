@@ -7,42 +7,42 @@
         {
             "icon": "fa-solid fa-circle-dollar-to-slot",
             "text": "Curso Gratuito",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-handshake-simple",
             "text": "Prepara para o Mercado de Trabalho",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-user-check",
             "text": "+ Aprovações em Vestibulares",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-clock",
             "text": "4 Anos de Duração",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-laptop-code",
             "text": "Laboratórios Modernos",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-person-chalkboard",
             "text": "Professores Qualificados",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-file-code",
             "text": "Projetos Práticos",
-            "class": "badge"
+            "class": "small"
         },
         {
             "icon": "fa-solid fa-chalkboard-user",
             "text": "Apoio ao Estudante",
-            "class": "badge"
+            "class": "small"
         }
     ],
     "about": {

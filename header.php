@@ -4,13 +4,15 @@
 
     <div class="mt-3">
         <div class="row">
+
+            <?php foreach ($data['badges'] as $badge): ?>
             <div class="col-md-1">
-                <i class="fa-solid fa-book"></i> <br />
-                <span class="sr-only">Prepara Para o mercado de trabalho</span>
+                <i class="<?php echo $badge['icon']; ?> fa-2x"></i> <br />
+                <span class="<?php echo $badge['class']; ?>"><?php echo $badge['text']; ?></span>
             </div>
+            <?php endforeach; ?>
         </div>
-        <?php foreach ($data['badges'] as $badge): ?>
-        <span class="<?php echo $badge['class']; ?>"><?php echo $badge['text']; ?></span>
-        <?php endforeach; ?>
+
+
     </div>
 </header>

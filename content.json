@@ -5,34 +5,42 @@
     },
     "badges": [
         {
+            "icon": "fa-solid fa-circle-dollar-to-slot",
             "text": "Curso Gratuito",
             "class": "badge bg-success mr-1"
         },
         {
+            "icon": "fa-solid fa-handshake-simple",
             "text": "Prepara para o Mercado de Trabalho",
             "class": "badge bg-info mr-1"
         },
         {
+            "icon": "fa-solid fa-user-check",
             "text": "+ Aprovações em Vestibulares",
             "class": "badge bg-warning text-dark mr-1"
         },
         {
+            "icon": "fa-solid fa-clock",
             "text": "4 Anos de Duração",
             "class": "badge bg-primary mr-1"
         },
         {
+            "icon": "fa-solid fa-laptop-code",
             "text": "Laboratórios Modernos",
             "class": "badge bg-secondary mr-1"
         },
         {
+            "icon": "fa-solid fa-person-chalkboard",
             "text": "Professores Qualificados",
             "class": "badge bg-dark mr-1"
         },
         {
+            "icon": "fa-solid fa-file-code",
             "text": "Projetos Práticos",
             "class": "badge bg-light text-dark mr-1"
         },
         {
+            "icon": "fa-solid fa-chalkboard-user",
             "text": "Apoio ao Estudante",
             "class": "badge bg-danger mr-1"
         }

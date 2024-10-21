@@ -54,14 +54,14 @@
         "description": "Veja alguns projetos desenvolvidos no curso",
         "items": [
             {
-                "title": "Projeto 1",
-                "description": "Descrição breve do projeto desenvolvido por alunos.",
-                "image": "imagens/projeto1.jpg"
+                "title": "Automação e IoT",
+                "description": "Curso sobre automação e IoT como parte das atividades no  ̃âmbito de um projeto de extensão nas instalações do campus Paranavaí. Este projeto foi desenvolvido dentro do programa PIBEX-JR financiado pela DIEXT/PROEPPI/IFPR, possuindo um bolsista de ensino médio. Foram convidados para o curso alunos e professores da rede municipal, estadual, federal e particular de ensino da cidade de Paranavaí.",
+                "image": "imagens/projetoIoT.png"
             },
             {
-                "title": "Projeto 2",
-                "description": "Descrição breve do projeto desenvolvido por alunos.",
-                "image": "imagens/projeto2.jpg"
+                "title": "Avaliação de dados para identificação de crianças atípicas na pré-escola",
+                "description": "Desenvolvimento de uma aplicação utilizando técnicas da ciência de dados e aprendizagem de máquinas na análise dos dados de pessoas e na identificação de crianças atípicas em idade pré-escolar.",
+                "image": "imagens/projetoML.png"
             }
         ]
     },

@@ -12,37 +12,37 @@
         {
             "icon": "fa-solid fa-handshake-simple",
             "text": "Prepara para o Mercado de Trabalho",
-            "class": "bg-info mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-user-check",
             "text": "+ Aprovações em Vestibulares",
-            "class": "bg-warning text-dark mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-clock",
             "text": "4 Anos de Duração",
-            "class": "bg-primary mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-laptop-code",
             "text": "Laboratórios Modernos",
-            "class": "bg-secondary mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-person-chalkboard",
             "text": "Professores Qualificados",
-            "class": "bg-dark mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-file-code",
             "text": "Projetos Práticos",
-            "class": "bg-light text-dark mr-1"
+            "class": "badge"
         },
         {
             "icon": "fa-solid fa-chalkboard-user",
             "text": "Apoio ao Estudante",
-            "class": "bg-danger mr-1"
+            "class": "badge"
         }
     ],
     "about": {

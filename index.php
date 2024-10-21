@@ -29,7 +29,6 @@ $data = json_decode($content, true);
 
 <body>
     <?php include 'header.php'; ?>
-    <i class="fa-solid fa-book"></i>
     <section class="section">
         <div class="container">
             <h2 class="section-title"><?php echo $data['about']['title']; ?></h2>

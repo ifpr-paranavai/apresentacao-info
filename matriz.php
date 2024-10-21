@@ -11,7 +11,20 @@ $data = json_decode($content, true);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $data['header']['title']; ?> - IFPR Campus Paranavaí</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.6.0-web/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
+
+    <meta property="og:title" content="Técnico em Informática Integrado ao Ensino Médio - IFPR Campus Paranavaí">
+    <meta property="og:description"
+        content="Conheça o curso de Técnico em Informática Integrado ao Ensino Médio do IFPR Campus Paranavaí. Formação gratuita com ênfase em desenvolvimento de software, inovação tecnológica e preparação para o mercado de trabalho.">
+    <meta property="og:url" content="https://infoifpr.tecnoif.com.br">
+    <meta property="og:type" content="website">
+
+    <!-- Meta Description para SEO -->
+    <meta name="description"
+        content="Curso Técnico em Informática Integrado ao Ensino Médio do IFPR Campus Paranavaí. Formação gratuita com ênfase em desenvolvimento de software, inovação tecnológica e preparação para o mercado de trabalho.">
+
 </head>
 
 <body>
@@ -24,23 +37,23 @@ $data = json_decode($content, true);
 
             <div id="curriculum-container">
                 <?php foreach ($data['curriculum']['years'] as $year): ?>
-                    <h3><?php echo $year['year']; ?></h3>
-                    <table class="table table-bordered mb-4">
-                        <thead class="thead-dark">
-                            <tr>
-                                <th>Disciplina</th>
-                                <th>Carga Horária</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <?php foreach ($year['subjects'] as $subject): ?>
-                                <tr>
-                                    <td><?php echo $subject['name']; ?></td>
-                                    <td><?php echo $subject['hours']; ?></td>
-                                </tr>
-                            <?php endforeach; ?>
-                        </tbody>
-                    </table>
+                <h3><?php echo $year['year']; ?></h3>
+                <table class="table table-bordered mb-4">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Disciplina</th>
+                            <th>Carga Horária</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($year['subjects'] as $subject): ?>
+                        <tr>
+                            <td><?php echo $subject['name']; ?></td>
+                            <td><?php echo $subject['hours']; ?></td>
+                        </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                </table>
                 <?php endforeach; ?>
             </div>
         </div>
@@ -51,8 +64,8 @@ $data = json_decode($content, true);
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"
-        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js" crossorigin="anonymous">
+    </script>
 
 </body>
 
